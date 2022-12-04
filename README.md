@@ -22,7 +22,6 @@ Gloob is a Token grabber made by mixing "Hazard Token Grabber V2" and "W4SP-Stea
     - Bookmarks
     - Autofill
     - Chrome, Edge, Brave, Opera GX, and many more...
-    - 
 - System info
     - User
     - System
