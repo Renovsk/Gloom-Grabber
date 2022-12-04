@@ -2,6 +2,8 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 #Gloom Grabber
 Gloob is a Token grabber made by mixing "Hazard Token Grabber V2" and "W4SP-Stealer". All rights to the owners.
+
+
 ## Features
 - Discord token info
     - Nitro
@@ -84,7 +86,7 @@ View the [contributing guidelines](CONTRIBUTING.md) for more information on how 
 
 ## License
 
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+Gloom is licensed under the GNU License</a>.
 
 
 
