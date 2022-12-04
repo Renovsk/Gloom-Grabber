@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
   </a>
   <a href="https://github.com/crxel/Gloom-Grabber">
-    <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
   <a href="https://github.com/crxel">
   </a>
