@@ -1,11 +1,26 @@
 <p align="center">
   <img src="https://i.discord.fr/PSS.png">
 </p>
-Gloom Grabber 1.0.0
+
+<h1 align="center">[Discord] - Gloom Grabber 1.0.0</h1>
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
+  </a>
+  <a href="https://github.com/crxel/Gloom-Grabber">
+    <img src="https://img.shields.io/badge/covarage-95%25-green">
+  </a>
+  <a href="https://github.com/crxel">
+  </a>
+  <a href="https://github.com/crxel">
+  </a>
+</p>
+
+<p align="center">
+  [Discord] - Gloom is a Token grabber made by mixing "Hazard Token Grabber V2" and "W4SP-Stealer". All rights to the owners.
+</p>
 
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-Gloom is a Token grabber made by mixing "Hazard Token Grabber V2" and "W4SP-Stealer". All rights to the owners.
 
 
 ## Features
