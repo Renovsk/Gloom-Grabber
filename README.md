@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/991096084774412289/1048980209065533470/Screenshot_20221203-213813_CapCut.jpg">
+  <img src="https://cdn.discordapp.com/attachments/991096084774412289/1049484445570318367/thumban.png">
 </p>
 
 <h1 align="center">[Discord] - Gloom Grabber 1.0.0</h1>
